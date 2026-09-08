@@ -1,6 +1,6 @@
 # Hi there, I'm Ahmed El-Tokhy! 👋
 
-### 📊 Data Analyst & Business Intelligence 
+### 📊 Data Analyst
 
 Welcome to my GitHub profile! I am a passionate **Data Analyst & Business Intelligence ** dedicated to transforming complex, raw data into actionable insights, interactive visual dashboards, and strategic business solutions.
 
