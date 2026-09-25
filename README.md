@@ -36,8 +36,7 @@ Welcome to my GitHub profile! I am a passionate **Data Analyst & Business Intell
 |-|-|-|:-:|
 |*Project Title 1*|*Brief description of the analysis or business impact.*|`Power BI` `SQL`|[View Project](#)|
 |*Project Title 2*|*Brief description of the analysis or business impact.*|`Python` `Pandas`|[View Project](#)|
-|*Coffee Shop Sales Analysis
-*|*This project analyzes coffee shop sales transaction data using Microsoft Excel.*|`Excel`|[View Project](#)|
+|*Coffee Shop Sales Analysis*|*This project analyzes coffee shop sales transaction data using Microsoft Excel.*|`Excel`|[View Project](https://github.com/aeltoukhy106-ai/coffee-shop-sales-analysis.git)|
 
 
 
